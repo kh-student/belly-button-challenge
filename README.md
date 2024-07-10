@@ -10,4 +10,5 @@ The D3 library will be used to read in ```samples.json``` from the following URL
 
 Project file can be found in the ```static``` folder, titled ```app.js```. 
 
-
+#### DEPLOYMENT PAGE:
+- https://kh-student.github.io/belly-button-challenge/
